@@ -1,3 +1,3 @@
 # JRNquadLDA
 
-adding a lint
+adding a line
