@@ -5,6 +5,8 @@ library(tidyr)
 setwd('C:/Users/echriste/Documents/Jornada quadrats')
 source('quadrat_functions.R')
 
+
+
 dat1 = read.csv('data/data portal/JornadaStudy_351_permanent_chart_quadrat_perennial_forb_density_data.csv',stringsAsFactors = F)
 dat2 = read.csv('data/data portal/JornadaStudy_351_permanent_chart_quadrat_shrub_and_perennial_grass_cover_data.csv',stringsAsFactors = F)
 
